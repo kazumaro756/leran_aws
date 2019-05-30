@@ -5,7 +5,7 @@
 - 関数名は変更できない。
  - https://teratail.com/questions/62275
 - レイヤーとしてアップロードするファイルは、python/hoge.py などとなっている必要がある。
- - 罠。
+  - 罠。
 - cronはドキュメントを見ながら描くべし。
  - https://docs.aws.amazon.com/ja_jp/AmazonCloudWatch/latest/events/ScheduledEvents.html
 - 処理はハンドラの中に書くこと。（ただコードを書けば良いというわけではないので注意）
