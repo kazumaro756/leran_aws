@@ -4,7 +4,7 @@
 
 - 関数名は変更できない。
   - https://teratail.com/questions/62275
-- レイヤーとしてアップロードするファイルは、python/hoge.py などとなっている必要がある。
+- レイヤーとしてアップロードするファイルは、python/hoge.py などとなっている必要がある。pythonより下の階層を見に行くためらしい。。。
   - 罠。
 - cronはドキュメントを見ながら描くべし。
   - https://docs.aws.amazon.com/ja_jp/AmazonCloudWatch/latest/events/ScheduledEvents.html
